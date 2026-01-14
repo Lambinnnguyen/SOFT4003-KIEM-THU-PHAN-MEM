@@ -12,7 +12,8 @@ Tập trung vào rèn luyện kiểm thử giao diện cũng như phát hiện l
 
 Bài tập: test Can't Unsee.
 Điểm số đạt được: 4850
-![alt text]({20C28530-9DAA-4338-9889-1FD3A8FD88D8}.png)
+
+
 
 Chương 2 Unit Testing:
 
