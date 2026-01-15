@@ -1,18 +1,31 @@
-# INFO3002-KIEM-THU-PHAN-MEM
+# 🧪 SOFT4003 - Kiểm Thử Phần Mềm
 
-Thông tin sinh viên
-Họ và tên: Nguyễn Tùng lâm
-Mã sinh viên: BCS230050
-Lớp: 23CS1
-Môn học: Kiểm thử phần mềm
-Giảng viên: Trương Anh Hoàng
+Chào mừng đến với repository lưu trữ bài tập và tài liệu thực hành môn **Kiểm thử phần mềm**.
 
-Chương 1: Kiểm thử giao diện
-Tập trung vào rèn luyện kiểm thử giao diện cũng như phát hiện lỗi trong thiết kế UI
+## 📋 Thông Tin Sinh Viên
+| Thông Tin | Chi Tiết |
+| :--- | :--- |
+| **Họ và tên** | Nguyễn Tùng Lâm |
+| **Mã sinh viên** | BCS230050 |
+| **Lớp** | 23CS1 |
+| **Giảng viên hướng dẫn** | Trương Anh Hoàng |
 
-Bài tập: test Can't Unsee.
-Điểm số đạt được: 4850
-![alt text]({20C28530-9DAA-4338-9889-1FD3A8FD88D8}.png)
+---
 
-Chương 2 Unit Testing:
+## 📚 Nội Dung Môn Học
+
+### 🎨 Chương 1: Kiểm thử giao diện (UI Testing)
+Mục tiêu: Rèn luyện kỹ năng kiểm thử giao diện người dùng và phát hiện các lỗi trong thiết kế UI/UX.
+
+- **Bài tập thực hành**: [Can't Unsee](https://cantunsee.space/)
+- **Kết quả đạt được**: 4850 điểm
+
+#### Minh họa kết quả:
+![Kết quả bài tập Chương 1](BT_Chuong_1.png)
+
+### ⚙️ Chương 2: Kiểm thử đơn vị (Unit Testing)
+*(Nội dung đang được cập nhật...)*
+
+---
+> *Repository này được sử dụng để nộp bài và theo dõi tiến độ học tập môn Kiểm thử phần mềm.*
 
