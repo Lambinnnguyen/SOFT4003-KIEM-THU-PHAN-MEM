@@ -26,6 +26,5 @@ Mục tiêu: Rèn luyện kỹ năng kiểm thử giao diện người dùng và
 ### ⚙️ Chương 2: Kiểm thử đơn vị (Unit Testing)
 *(Nội dung đang được cập nhật...)*
 
----
-> *Repository này được sử dụng để nộp bài và theo dõi tiến độ học tập môn Kiểm thử phần mềm.*23gfewrgre2gwtretr4
+
 
