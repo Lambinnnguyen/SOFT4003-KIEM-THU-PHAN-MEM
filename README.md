@@ -90,8 +90,13 @@ Bài tập này sử dụng Cypress để kiểm thử các chức năng chính 
 Tất cả test case đều pass, xác nhận các chức năng hoạt động đúng trên trình duyệt.
 
 #### Minh họa kết quả
+- **Cart Test** (`cart_spec.cy.js`):
 <img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/a7a04111-7aa9-4883-9ef1-56d29f2851d5" />
+<img width="1910" height="908" alt="{A8BAFFD0-2082-4FCA-A58C-A0D6C7D6D2E2}" src="https://github.com/user-attachments/assets/182d0122-952b-4898-bfba-29dadbd47126" />
+- **Login Test** (`login_spec.cy.js`):
 <img width="1913" height="911" alt="image" src="https://github.com/user-attachments/assets/6f0d936b-0482-4746-8835-5a9c227efed9" />
+- **Checkout Test** (`checkout_spec.cy.js`):
+<img width="1917" height="901" alt="{7463148E-6FCE-4A9D-9F20-08FFAD848873}" src="https://github.com/user-attachments/assets/aace0b46-768f-4399-8f78-51c0e72411e9" />
 
 
 #### Hướng dẫn chạy
