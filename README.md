@@ -62,5 +62,41 @@ Unit-test/
    java -jar junit-platform-console-standalone-1.10.2.jar --class-path "src;test" --scan-classpath
    ```
 
+#### Kết quả kiểm thử
+Tất cả 7 test case đều pass thành công, xác nhận logic của lớp `StudentAnalyzer` hoạt động chính xác.
+
+#### Minh họa kết quả:
+![Kết quả bài tập Chương 2](BT_Chuong_2.png)
+
+### 🌐 Chương 3: Kiểm Thử Cypress End-to-End
+Mục tiêu: Rèn luyện kỹ năng kiểm thử end-to-end bằng Cypress để đảm bảo luồng hoạt động của ứng dụng web.
+
+#### Giới thiệu
+Bài tập này sử dụng Cypress để kiểm thử các chức năng chính của trang web SauceDemo, bao gồm đăng nhập, thêm sản phẩm vào giỏ hàng và sắp xếp sản phẩm.
+
+#### Cài đặt môi trường
+1. Cài đặt Node.js (phiên bản 14 trở lên).
+2. Khởi tạo dự án Node.js: `npm init -y`.
+3. Cài đặt Cypress: `npm install cypress --save-dev`.
+4. Khởi tạo cấu trúc Cypress: `npx cypress install`.
+
+#### Kịch bản kiểm thử
+- **Login Test** (`login_spec.cy.js`):
+  - Đăng nhập thành công với credentials hợp lệ.
+  - Hiển thị thông báo lỗi với credentials không hợp lệ.
+- **Cart Test** (`cart_spec.cy.js`):
+  - Thêm sản phẩm vào giỏ hàng.
+  - Sắp xếp sản phẩm theo giá từ thấp đến cao.
+
+#### Kết quả
+Tất cả test case đều pass, xác nhận các chức năng hoạt động đúng trên trình duyệt.
+
+#### Hướng dẫn chạy
+1. Điều hướng đến thư mục `Cypress_End-to-end/`.
+2. Chạy test cụ thể: `npx cypress run --spec cypress/e2e/login_spec.cy.js`.
+3. Hoặc chạy tất cả: `npx cypress run`.
+4. Để chạy tương tác: `npx cypress open`.
+
+
 
 
