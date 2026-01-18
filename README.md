@@ -82,6 +82,9 @@ Bài tập này sử dụng Cypress để kiểm thử các chức năng chính 
 - **Cart Test** (`cart_spec.cy.js`):
   - Thêm sản phẩm vào giỏ hàng.
   - Sắp xếp sản phẩm theo giá từ thấp đến cao.
+  - Xóa sản phẩm khỏi giỏ hàng.
+- **Checkout Test** (`checkout_spec.cy.js`):
+  - Quy trình thanh toán đầy đủ: đăng nhập, thêm sản phẩm, điền thông tin thanh toán và xác nhận chuyển đến trang xác nhận.
 
 #### Kết quả
 Tất cả test case đều pass, xác nhận các chức năng hoạt động đúng trên trình duyệt.
