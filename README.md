@@ -1,8 +1,8 @@
-# 🧪 SOFT4003 - Kiểm Thử Phần Mềm
+#  SOFT4003 - Kiểm Thử Phần Mềm
 
 Chào mừng đến với repository lưu trữ bài tập và tài liệu thực hành môn **Kiểm thử phần mềm**.
 
-## 📋 Thông Tin Sinh Viên
+## Thông Tin Sinh Viên
 | Thông Tin | Chi Tiết |
 | :--- | :--- |
 | **Họ và tên** | Nguyễn Tùng Lâm |
@@ -12,16 +12,17 @@ Chào mừng đến với repository lưu trữ bài tập và tài liệu thự
 
 ---
 
-## 📚 Nội Dung Môn Học
+## Nội Dung Môn Học
 
-### 🎨 Chương 1: Kiểm thử giao diện (UI Testing)
+### Chương 1: Kiểm thử giao diện (UI Testing)
 Mục tiêu: Rèn luyện kỹ năng kiểm thử giao diện người dùng và phát hiện các lỗi trong thiết kế UI/UX.
 
 - **Bài tập thực hành**: [Can't Unsee](https://cantunsee.space/)
-- **Kết quả đạt được**: 4850 điểm
+- **Kết quả đạt được**: 7100 điểm
 
 #### Minh họa kết quả:
-![Kết quả bài tập Chương 1](BT_Chuong_1.png)
+![Kết quả bài tập Chương 1](<img width="1905" height="954" alt="BT_CantUnsee" src="https://github.com/user-attachments/assets/54e3750a-b3c0-4a6a-90e3-f2573d898b27" />
+)
 
 ### ⚙️ Chương 2: Kiểm thử đơn vị (Unit Testing)
 Mục tiêu: Rèn luyện kỹ năng kiểm thử đơn vị bằng JUnit để đảm bảo tính chính xác của mã nguồn.
@@ -62,12 +63,6 @@ Unit-test/
    java -jar junit-platform-console-standalone-1.10.2.jar --class-path "src;test" --scan-classpath
    ```
 
-#### Kết quả kiểm thử
-Tất cả 7 test case đều pass thành công, xác nhận logic của lớp `StudentAnalyzer` hoạt động chính xác.
-
-#### Minh họa kết quả:
-![Kết quả bài tập Chương 2](BT_Chuong_2.png)
-
 ### 🌐 Chương 3: Kiểm Thử Cypress End-to-End
 Mục tiêu: Rèn luyện kỹ năng kiểm thử end-to-end bằng Cypress để đảm bảo luồng hoạt động của ứng dụng web.
 
@@ -90,6 +85,11 @@ Bài tập này sử dụng Cypress để kiểm thử các chức năng chính 
 
 #### Kết quả
 Tất cả test case đều pass, xác nhận các chức năng hoạt động đúng trên trình duyệt.
+
+#### Minh họa kết quả
+<img width="1915" height="912" alt="image" src="https://github.com/user-attachments/assets/a7a04111-7aa9-4883-9ef1-56d29f2851d5" />
+<img width="1913" height="911" alt="image" src="https://github.com/user-attachments/assets/6f0d936b-0482-4746-8835-5a9c227efed9" />
+
 
 #### Hướng dẫn chạy
 1. Điều hướng đến thư mục `Cypress_End-to-end/`.
