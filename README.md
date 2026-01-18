@@ -21,8 +21,8 @@ Mục tiêu: Rèn luyện kỹ năng kiểm thử giao diện người dùng và
 - **Kết quả đạt được**: 7100 điểm
 
 #### Minh họa kết quả:
-![Kết quả bài tập Chương 1](<img width="1905" height="954" alt="BT_CantUnsee" src="https://github.com/user-attachments/assets/54e3750a-b3c0-4a6a-90e3-f2573d898b27" />
-)
+![Kết quả bài tập Chương 1]<img width="1905" height="954" alt="BT_CantUnsee" src="https://github.com/user-attachments/assets/7e13fe6b-c336-423e-b2bb-86feef0252db" />
+
 
 ### ⚙️ Chương 2: Kiểm thử đơn vị (Unit Testing)
 Mục tiêu: Rèn luyện kỹ năng kiểm thử đơn vị bằng JUnit để đảm bảo tính chính xác của mã nguồn.
