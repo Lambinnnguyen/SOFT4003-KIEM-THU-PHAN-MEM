@@ -24,7 +24,7 @@ Mục tiêu: Rèn luyện kỹ năng kiểm thử giao diện người dùng và
 ![Kết quả bài tập Chương 1]<img width="1905" height="954" alt="BT_CantUnsee" src="https://github.com/user-attachments/assets/7e13fe6b-c336-423e-b2bb-86feef0252db" />
 
 
-### ⚙️ Chương 2: Kiểm thử đơn vị (Unit Testing)
+### Chương 2: Kiểm thử đơn vị (Unit Testing)
 Mục tiêu: Rèn luyện kỹ năng kiểm thử đơn vị bằng JUnit để đảm bảo tính chính xác của mã nguồn.
 
 #### Giới thiệu bài toán
@@ -63,7 +63,7 @@ Unit-test/
    java -jar junit-platform-console-standalone-1.10.2.jar --class-path "src;test" --scan-classpath
    ```
 
-### 🌐 Chương 3: Kiểm Thử Cypress End-to-End
+###  Chương 3: Kiểm Thử Cypress End-to-End
 Mục tiêu: Rèn luyện kỹ năng kiểm thử end-to-end bằng Cypress để đảm bảo luồng hoạt động của ứng dụng web.
 
 #### Giới thiệu
