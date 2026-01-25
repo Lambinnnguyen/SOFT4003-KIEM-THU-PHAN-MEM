@@ -135,6 +135,14 @@ Jmeter_performance_test/
 #### Kết quả
 Các file CSV trong thư mục `csv/` chứa dữ liệu hiệu suất chi tiết từ các thread group khác nhau, bao gồm thời gian phản hồi, số lượng request thành công/thất bại, throughput, v.v. Điều này giúp phân tích và tối ưu hóa hiệu suất của trang web.
 
+#### Minh họa kết quả
+- **Tg1**:
+![Tg1](Jmeter_performance_test/results/Tg1.png)
+- **Tg2**:
+![Tg2](Jmeter_performance_test/results/Tg2.png)
+- **Tg3**:
+![Tg3](Jmeter_performance_test/results/Tg3.png)
+
 
 
 
