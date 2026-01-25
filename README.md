@@ -107,4 +107,34 @@ Tất cả test case đều pass, xác nhận các chức năng hoạt động �
 
 
 
+### Chương 4: Kiểm Thử Hiệu Suất với JMeter
+Mục tiêu: Rèn luyện kỹ năng kiểm thử hiệu suất bằng JMeter để đánh giá khả năng chịu tải và hiệu suất của ứng dụng web.
+
+#### Giới thiệu
+Bài tập này triển khai kiểm thử hiệu suất cho một trang web bằng JMeter, bao gồm các kịch bản tải với nhiều thread group để mô phỏng người dùng đồng thời.
+
+#### Cấu trúc
+```
+Jmeter_performance_test/
+├── website_test.jmx    # Test plan JMeter chính
+├── csv/
+│   ├── Tg1_summary.csv
+│   ├── Tg2_summary.csv
+│   └── Tg3_summary.csv  # Dữ liệu kết quả từ các thread group
+└── results/             # Thư mục chứa kết quả xuất ra từ JMeter
+```
+
+#### Hướng dẫn chạy
+1. Cài đặt Apache JMeter (phiên bản 5.0 trở lên) từ trang chủ chính thức.
+2. Mở JMeter GUI bằng cách chạy `jmeter.bat` (trên Windows) hoặc `jmeter` (trên Linux/Mac).
+3. Mở file test plan: File > Open > Chọn `website_test.jmx`.
+4. Chạy test: Run > Start.
+5. Xem kết quả trong các Listener (View Results Tree, Summary Report).
+6. Xuất kết quả vào thư mục `results/` nếu cần.
+
+#### Kết quả
+Các file CSV trong thư mục `csv/` chứa dữ liệu hiệu suất chi tiết từ các thread group khác nhau, bao gồm thời gian phản hồi, số lượng request thành công/thất bại, throughput, v.v. Điều này giúp phân tích và tối ưu hóa hiệu suất của trang web.
+
+
+
 
